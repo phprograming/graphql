@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Paulo Henrique Barbosa Santos",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.17.0",
